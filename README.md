@@ -1,2 +1,2 @@
 # ML
-Machine Learning course from Stanford with octave on Coursera
+Machine Learning course from Stanford University with Octave on Coursera
